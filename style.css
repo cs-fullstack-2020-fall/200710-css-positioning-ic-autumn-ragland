@@ -1,0 +1,29 @@
+/* body {
+    background-color: blue;
+} */
+
+header, div {
+    padding: 5%;
+    margin: 5%;
+}
+
+header {
+    background-color: pink;
+}
+#paraOne {
+    background-color: purple;
+    position: absolute;
+    right: 50%;
+}
+#paraTwo {
+    background-color: rebeccapurple;
+    position: absolute;
+    left: 50%;
+}
+
+footer {
+    background-color: salmon;
+    position: absolute;
+    bottom : 0;
+    width: 100%;
+}
